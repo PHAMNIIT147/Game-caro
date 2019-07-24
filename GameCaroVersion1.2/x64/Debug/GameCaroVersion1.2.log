@@ -1,0 +1,3 @@
+﻿  SourceCode.cpp
+e:\lap trinh c++\gamecaroversion1.2\sourcecode.cpp(14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  GameCaroVersion1.2.vcxproj -> E:\Lap trinh C++\x64\Debug\GameCaroVersion1.2.exe
